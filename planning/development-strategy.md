@@ -11,7 +11,7 @@
 ## WIREFRAME
 
 ![wireframe](/public/homepage.png) ![wireframe](/public/program.png)
-![wireframe](/public/volunteer.png) ![wireframe](/public/digitalents.png)
+![wireframe](/public/volunteer1.png) ![wireframe](/public/digitalents.png)
 
 ## Setup
 
