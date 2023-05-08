@@ -77,7 +77,7 @@
 
 ## The program
 
-## Must-Haves
+### Must-Haves
 
 ### Logo
 
@@ -126,7 +126,7 @@
   - _There's a footer continaing the name of the company, the address and social
     links_
 
-## Should-Haves
+### Should-Haves
 
 ### Final project description
 
