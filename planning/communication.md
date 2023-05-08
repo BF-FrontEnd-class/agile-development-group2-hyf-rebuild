@@ -8,19 +8,22 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       |           How           | The topic of discussion             |
+| --------- | :---------------------: | ----------------------------------- |
+| Monday    | On site: Zoom and Slack | Creating the planning documentation |
+| Tuesday   | Online: Zoom and Slack  | Start coding                        |
+| Wednesday | Online: Zoom and Slack  | Continue coding                     |
+| Thursday  | On site: Zoom and Slack | Continue coding                     |
+| Friday    | Online: Zoom and Slack  | Creating the retrospective          |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
+- **Issues**: Zoom, Slack
+- **Pull Requests**: GitHub, VSCode
 - **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Video Calls**: Zoom
 
 ---
 
@@ -28,17 +31,21 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day       |            Monday            |           Tuesday            |          Wednesday           |          Thursday          |            Friday            |
+| --------- | :--------------------------: | :--------------------------: | :--------------------------: | :------------------------: | :--------------------------: |
+| Cris      | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17: | 09:00 - 12:00, 13:00 - 17:00 |
+| Inna      | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17: | 09:00 - 12:00, 13:00 - 17:00 |
+| Jean Paul | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17: | 09:00 - 12:00, 13:00 - 17:00 |
+| Iryna     | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17: | 09:00 - 12:00, 13:00 - 17:00 |
+| Karol     | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17: | 09:00 - 12:00, 13:00 - 17:00 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Cris: _8h_;
+- Inna: _8h_;
+- Jean Paul: _8h_;
+- Iryna: _8h_;
+- Karol: _8h_;
 
 ## Asking for Help
 
