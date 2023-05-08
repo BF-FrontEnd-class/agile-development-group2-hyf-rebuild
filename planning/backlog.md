@@ -171,9 +171,8 @@
 
 #### Navigation bar
 
-- [ ] - As a user, I can navigate through three elements : Home, Features and
-    Docs -_There's a navigation bar with the links to `the program` `volunteer`
-    `digitalents`_
+- [ ] - As a user, I can navigate through three elements - _There's a navigation
+    bar with the links to `the program` `volunteer` `digitalents`_
 
 #### Title
 
@@ -202,6 +201,7 @@
 
 - [ ]- As an user I can find why should I volunteer in HYF -_There's is clear
   information with text and small images_
+
 
 ### Could-Haves
 
