@@ -117,6 +117,7 @@
 ### Content of the program
 
 - [ ] As an user I can see a button for the whole curriculum
+
   - _There's a button to access the full curriculum description_
 
   - _There's a button to access the full curriculum description_
