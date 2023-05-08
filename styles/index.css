@@ -53,4 +53,28 @@
   line-height: 160%;
   background-color: rgb(74, 80, 187);
   border-radius: 5px;
+
+/** Footer styling **/
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-container h1 {
+  color: blue;
+}
+
+.footer-social-icons {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-social-icons a {
+  text-decoration: none;
+  font-size: 40px;
 }
