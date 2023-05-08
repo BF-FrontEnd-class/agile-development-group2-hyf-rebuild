@@ -9,22 +9,39 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I can see the title of the website.
+  - There is a title of the website.
+- [ ] As a user I can see the logo of the website.
+  - There is a logo of the website.
+- [ ] As a user I can see the navigation bar of the website.
+  - There is a navigation bar of the website.
+- [ ] As a user I can see the banner of the website.
+  - There is a banner of the website.
+- [ ] As a user I can see the description of the program on the website.
+  - There is a the description of the program on the website.
+- [ ] As a user I can see the statistic of the program on the website.
+  - There is a statistic of the program on of the website.
+- [ ] As a user I can see the core values of the program on the website.
+  - There is a core values of the program on of the website.
+- [ ] As a user I can see the success stories of the project on the website.
+  - There is a success stories of the project on the website.
+- [ ] As a user I can see the partners of the project on the website.
+  - There is a partners of the project on the website.
+- [ ] As a user I can support the developers of the project on the website.
+  - There is a possibility to support the developers of the project on the
+    website.
+- [ ] As a user I can contact with administration of the project on the website.
+  - There is a possibility to contact with administration of the project on the
+    website.
+- [ ] As a user I can see the footer of the website.
+  - There is a logo of the website.
+  - There is an address and contacts on the website.
+  - There is a social media on the website.
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
 ## Could-Haves
 
 > would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
