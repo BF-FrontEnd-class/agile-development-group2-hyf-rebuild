@@ -4,8 +4,6 @@
 
 ---
 
-<!-- a persona -->
-
 ## Refugee
 
 - **Bio**: David is a 27-year-old refugee from Ethiopia who arrived in Belgium
