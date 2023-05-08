@@ -34,16 +34,6 @@
 - [ ] As a user I can see the statistic of the program on the website.
   - There is a statistic of the program on of the website.
 
-### Tje core values
-
-- [ ] As a user I can see the core values of the program on the website.
-  - There is a core values of the program on of the website.
-
-### Success stories
-
-- [ ] As a user I can see the success stories of the project on the website.
-  - There is a success stories of the project on the website.
-
 ### Partners
 
 - [ ] As a user I can see the partners of the project on the website.
@@ -54,13 +44,36 @@
 - [ ] As a user I can support the developers of the project on the website.
   - There is a possibility to support the developers of the project on the
     website.
+
+### Contact
+
 - [ ] As a user I can contact with administration of the project on the website.
   - There is a possibility to contact with administration of the project on the
     website.
+
+### Footer
+
 - [ ] As a user I can see the footer of the website.
   - There is a logo of the website.
   - There is an address and contacts on the website.
   - There is a social media on the website.
+
+## Should-Haves
+
+### The core values
+
+- [ ] As a user I can see the core values of the program on the website.
+  - There is a core values of the program on of the website.
+
+### Success stories
+
+- [ ] As a user I can see the success stories of the project on the website.
+  - There is a success stories of the project on the website.
+
+### Map
+
+- [ ] As a user I can see the map on the website.
+  - There is a map on the website.
 
 ## The program
 
