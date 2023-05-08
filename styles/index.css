@@ -41,7 +41,7 @@
 
 .navbar-pages-hover a:hover {
   color: black;
-  text-decoration: underline;
+  text-decoration: none;
   border-bottom: solid;
   border-color: rgb(74, 80, 187);
 }
@@ -53,8 +53,10 @@
   line-height: 160%;
   background-color: rgb(74, 80, 187);
   border-radius: 5px;
+}
 
 /** Footer styling **/
+
 .footer-container {
   display: flex;
   flex-direction: column;
