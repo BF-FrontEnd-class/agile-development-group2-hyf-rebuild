@@ -133,18 +133,13 @@
 
 ### Final project description
 
-## Could-Haves
-
-> would be really cool ... if there's time
-
 - [ ] As an user I can see a brief description of the final project and a button
       to more info
-
-  - _There's a description section that tells what the program is about and a
-    button to read more_
+- _There's a description section that tells what the program is about and a
+  button to read more_
 
 - [ ] As an user I can see a picture of some students in the privious classes
-  - _There is an image of the students_
+- _There is an image of the students_
 
 ## Could-Haves
 
