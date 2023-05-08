@@ -25,7 +25,9 @@
     "Wireframe",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "Tervueren",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
