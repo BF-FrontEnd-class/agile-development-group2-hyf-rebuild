@@ -54,6 +54,7 @@
 ### Footer
 
 - [ ] As a user I can see the footer of the website.
+
   - There is a logo of the website.
   - There is an address and contacts on the website.
   - There is a social media on the website.
@@ -125,12 +126,16 @@
 ### Footer
 
 - [ ] As an user I can see a footer at the bottom of the page.
-  - _There's a footer continaing the name of the company, the address and social
-    links_
+- _There's a footer continaing the name of the company, the address and social
+  links_
 
 ### Should-Haves
 
 ### Final project description
+
+## Could-Haves
+
+> would be really cool ... if there's time
 
 - [ ] As an user I can see a brief description of the final project and a button
       to more info
