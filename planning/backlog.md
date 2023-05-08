@@ -54,6 +54,7 @@
 ### Footer
 
 - [ ] As a user I can see the footer of the website.
+
   - _There is a logo of the website.£_
   - _There is an address and contacts on the website._
   - _There is a social media on the website._
@@ -76,8 +77,6 @@
 
 - [ ] As a user I can see the map on the website.
   - _There is a map on the website._
-
----
 
 ## The program
 
@@ -119,6 +118,9 @@
 
 - [ ] As an user I can see a button for the whole curriculum
   - _There's a button to access the full curriculum description_
+
+  - _There's a button to access the full curriculum description_
+
 - [ ] As an user I can see the list of programming languages to be learned
   - _There is a list of small icons of the programming languages_
 
