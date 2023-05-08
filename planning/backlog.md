@@ -164,13 +164,12 @@
 #### Logo
 
 - [ ] - As an user I can find the logo
-  - \_There's a logo with correct image with the main name of the page.
+  - _There's a logo with correct image with the main name of the page._
 
 #### Navigation bar
 
-- [ ] - As a user, I can navigate through three elements : Home, Features and
-    Docs -_There's a navigation bar with the links to `the program` `volunteer`
-    `digitalents`_
+- [ ] - As a user, I can navigate through three elements - _There's a navigation
+    bar with the links to `the program` `volunteer` `digitalents`_
 
 #### Title
 
@@ -182,11 +181,6 @@
 - [ ] - As an user I can easily tell what the page is all about
   - _There's a short description with the text and two's buttons
     `join us a coach` `join as a mentor`_
-
-#### Volunteer require part
-
-- [ ]- As an user I can find why should I volunteer in HYF -_There's is clear
-  information with text and small images_
 
 #### Volunteers
 
@@ -200,8 +194,10 @@
 
 ### Should-Haves
 
-- [ ] - As a user, I can see the success of the company's graduates
-- _There's information about the success rate of the company's graduates._
+#### Volunteer require part
+
+- [ ] - As an user I can find why should I volunteer in HYF -_There's is clear
+    information with text and small images_
 
 ### Could-Haves
 
