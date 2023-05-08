@@ -7,76 +7,76 @@
 ### Title
 
 - [ ] As a user I can see the title of the website.
-  - There is a title of the website.
+  - _There is a title of the website._
 
 ### Logo
 
 - [ ] As a user I can see the logo of the website.
-  - There is a logo of the website.
+  - _There is a logo of the website._
 
 ### Navigation bar
 
 - [ ] As a user I can see the navigation bar of the website.
-  - There is a navigation bar of the website.
+  - _There is a navigation bar of the website._
 
 ### Banner
 
 - [ ] As a user I can see the banner of the website.
-  - There is a banner of the website.
+  - _There is a banner of the website._
 
 ### The description of the program
 
 - [ ] As a user I can see the description of the program on the website.
-  - There is a the description of the program on the website.
+  - _There is a the description of the program on the website._
 
 ### The statistic of the program
 
 - [ ] As a user I can see the statistic of the program on the website.
-  - There is a statistic of the program on of the website.
+  - _There is a statistic of the program on of the website._
 
 ### Partners
 
 - [ ] As a user I can see the partners of the project on the website.
-  - There is a partners of the project on the website.
+  - _There is a partners of the project on the website._
 
 ### Support developers
 
 - [ ] As a user I can support the developers of the project on the website.
-  - There is a possibility to support the developers of the project on the
-    website.
+  - _There is a possibility to support the developers of the project on the
+    website._
 
 ### Contact
 
 - [ ] As a user I can contact with administration of the project on the website.
-  - There is a possibility to contact with administration of the project on the
-    website.
+  - _There is a possibility to contact with administration of the project on the
+    website._
 
 ### Footer
 
 - [ ] As a user I can see the footer of the website.
 
-  - There is a logo of the website.
-  - There is an address and contacts on the website.
-  - There is a social media on the website.
+  - _There is a logo of the website.£_
+  - _There is an address and contacts on the website._
+  - _There is a social media on the website._
 
 ## Should-Haves
 
 ### The core values
 
 - [ ] As a user I can see the core values of the program on the website.
-  - There is a core values of the program on of the website.
+  - _There is a core values of the program on of the website._
 
 ### Success stories
 
 - [ ] As a user I can see the success stories of the project on the website.
-  - There is a success stories of the project on the website.
+  - _There is a success stories of the project on the website._
 
 ### Could-Haves
 
 ### Map
 
 - [ ] As a user I can see the map on the website.
-  - There is a map on the website.
+  - _There is a map on the website._
 
 ## The program
 
