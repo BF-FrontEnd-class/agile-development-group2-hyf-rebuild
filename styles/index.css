@@ -1,5 +1,7 @@
 @import url("./something.css");
 
+/* Navigation bar */
+
 .navbar {
   display: flex;
   justify-content: space-between;
