@@ -202,7 +202,6 @@
 - [ ]- As an user I can find why should I volunteer in HYF -_There's is clear
   information with text and small images_
 
-
 ### Could-Haves
 
 - [ ] - As a user, I can see statistics of employed graduates
