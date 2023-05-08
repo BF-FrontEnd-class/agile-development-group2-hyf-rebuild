@@ -1,7 +1,54 @@
 @import url("./something.css");
 
-.logo {
+.navbar {
   display: flex;
-  margin-left: 50px;
-  margin-top: 50px;
+  justify-content: space-between;
+  min-height: 85px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.navbar img {
+  height: 60%;
+  width: 60%;
+}
+
+.navbar nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-pages {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-pages a {
+  font-size: 12px;
+  line-height: 160%;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  font-family: "Work Sans", sans-serif;
+  height: 100%;
+  text-decoration: none;
+}
+
+.navbar-pages-hover {
+  color: rgb(127, 127, 127);
+}
+
+.navbar-pages-hover a:hover {
+  color: black;
+  text-decoration: underline;
+  border-bottom: solid;
+  border-color: rgb(74, 80, 187);
+}
+
+.navbar-button {
+  display: flex;
+  color: white;
+  font-size: 12px;
+  line-height: 160%;
+  background-color: rgb(74, 80, 187);
+  border-radius: 5px;
 }
