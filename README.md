@@ -1,10 +1,16 @@
-# Name of project
+# Hack Your Future website
 
-> A longer description
+> The Hack Your Future project involves reverse ingeniering and redesigning with
+> the goal of improving its functionality, user experience, and visual appeal.
+
+> Hack Your Future shares the aim to enable refugees and disadvantaged people to
+> build digital skills for a career in web development, facilitate the
+> integration of newcomers, and address the shortage of qualified workforce in
+> the IT sector.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack Your Future website](#hack-your-future-website)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
