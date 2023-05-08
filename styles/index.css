@@ -76,6 +76,7 @@
   flex-direction: row;
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .footer-social-icons a {
   text-decoration: none;
   font-size: 40px;
