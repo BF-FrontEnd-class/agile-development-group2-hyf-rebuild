@@ -117,6 +117,7 @@
 ### Content of the program
 
 - [ ] As an user I can see a button for the whole curriculum
+  - _There's a button to access the full curriculum description_
 
   - _There's a button to access the full curriculum description_
 
@@ -137,7 +138,6 @@
       to more info
 - _There's a description section that tells what the program is about and a
   button to read more_
-
 - [ ] As an user I can see a picture of some students in the privious classes
 - _There is an image of the students_
 
@@ -157,6 +157,8 @@
   - _There's a section that describes the everything about the Career Skills
     Sessions_
 
+---
+
 ## Volunteer
 
 ### Must-Haves
@@ -164,7 +166,7 @@
 #### Logo
 
 - [ ] - As an user I can find the logo
-  - \_There's a logo with correct image with the main name of the page.
+  - _There's a logo with correct image with the main name of the page._
 
 #### Navigation bar
 
@@ -183,11 +185,6 @@
   - _There's a short description with the text and two's buttons
     `join us a coach` `join as a mentor`_
 
-#### Volunteer require part
-
-- [ ]- As an user I can find why should I volunteer in HYF -_There's is clear
-  information with text and small images_
-
 #### Volunteers
 
 - [ ] - As a user, I can see some volunteers who are already coaching in HYF
@@ -200,11 +197,61 @@
 
 ### Should-Haves
 
-- [ ] - As a user, I can see the success of the company's graduates
-- _There's information about the success rate of the company's graduates._
+#### Volunteer require part
+
+- [ ]- As an user I can find why should I volunteer in HYF -_There's is clear
+  information with text and small images_
 
 ### Could-Haves
 
 - [ ] - As a user, I can see statistics of employed graduates
 - _There's information about the number of graduates who have found employment
   after completing the program._
+
+---
+
+## Digitalents
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I want to see HackYourFuture Logo
+
+#### Navigation bar
+
+- [ ] As a user i want to see the navigation bar to access the pages of the
+      website. -_There's a navigation bar with the links to `the program`
+      `volunteer` `digitalents`_
+
+#### Title
+
+- [ ] As an user i want to see the title of what `digitalents` is all about.
+  - I want to see also of texts explaining what `digitalents` is about.
+
+#### For Who ?
+
+- [ ] As a user, I want to see a section titled "Who are we looking for?" that
+      describes who the `digitalents` program is designed for.
+  - There should be a brief description of the program's target audience and an
+    image of students learning.
+
+#### Button
+
+- [ ] As a user, I want to see a button that allows me to easily apply for the
+      `digitalents` program.
+
+#### Footer
+
+- [ ] As a user, I want to see a footer that includes links to social media and
+      information about the company's location and name.
+
+### Should-Haves
+
+#### Description
+
+- [ ] As an user I want to see the title of what`digitalents`offers.
+  - There should be two tracks described with titles `typescript` `asap.net`
+    along with a brief explanation of each track.
+
+---
