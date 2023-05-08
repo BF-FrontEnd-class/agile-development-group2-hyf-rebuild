@@ -29,8 +29,6 @@
 
 ---
 
-<!-- more personas ... -->
-
 ## Tech Startup Founder
 
 - **Bio:** Peter is a 35-year-old founder of a fast-growing tech startup in
