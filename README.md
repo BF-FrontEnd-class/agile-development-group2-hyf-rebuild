@@ -2,11 +2,10 @@
 
 > The Hack Your Future project involves reverse ingeniering and redesigning with
 > the goal of improving its functionality, user experience, and visual appeal.
-
-> Hack Your Future shares the aim to enable refugees and disadvantaged people to
-> build digital skills for a career in web development, facilitate the
-> integration of newcomers, and address the shortage of qualified workforce in
-> the IT sector.
+> <br /> > <br /> Hack Your Future shares the aim to enable refugees and
+> disadvantaged people to build digital skills for a career in web development,
+> facilitate the integration of newcomers, and address the shortage of qualified
+> workforce in the IT sector.
 
 ## Table of contents
 
