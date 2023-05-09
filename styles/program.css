@@ -18,7 +18,7 @@ body {
 }
 
 .title-container h1 {
-  font-size: 22px;
+  font-size: 25px;
   text-transform: uppercase;
   background: conic-gradient(
     #ca4246 16.666%,
@@ -42,12 +42,14 @@ body {
 
 .title-description {
   font-size: 16px;
+  font-family: "Space Mono", monospace;
 }
 
 .apply-now-message {
   font-size: 16px;
   color: #476098;
   text-decoration-line: underline;
+  font-family: "Space Mono", monospace;
 }
 
 .program-banner {
@@ -73,10 +75,27 @@ body {
   text-decoration: none;
   font-size: 16px;
   border-radius: 11px;
+  font-family: "Space Mono", monospace;
 }
 
 .apply-now-button:hover {
-  background-color: rgb(22, 238, 137);
+  background-color: rgb(45, 126, 88);
+}
+
+.upcoming-trainings-button {
+  background-color: #524f55;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 11px;
+  font-family: "Space Mono", monospace;
+}
+
+.upcoming-trainings-button:hover {
+  background-color: rgb(64, 66, 65);
 }
 
 /** Section styling **/
@@ -91,14 +110,17 @@ body {
 .who-can-apply {
   width: 40%;
   margin-top: 30px;
+  text-transform: uppercase;
 }
 
 .who-can-apply h2 {
   color: #476098;
+  font-family: "Work Sans", sans-serif;
 }
 
 .who-can-apply p {
   font-size: 16px;
+  font-family: "Space Mono", monospace;
 }
 
 .requirements-list {
@@ -110,6 +132,7 @@ ul {
   list-style: none;
   margin-left: 1em;
   counter-reset: line;
+  font-family: "Space Mono", monospace;
 }
 
 ul > li {
