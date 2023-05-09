@@ -52,5 +52,19 @@
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
   color: rgb(28, 34, 148);
-  text-align: left;
+  text-align: center;
+}
+
+/* description */
+
+.description-content {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: 550px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0;
+  word-break: break-word;
+  font-weight: 300;
 }
