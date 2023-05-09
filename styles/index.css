@@ -1,4 +1,5 @@
 @import url("./something.css");
+@import url("./digitalents.css");
 
 /* Logo styling */
 
@@ -28,7 +29,7 @@
 }
 
 .navbar-pages a {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 160%;
   text-transform: uppercase;
   padding: 10px 20px;
@@ -65,14 +66,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative;
+  top: 100vh;
   bottom: 15px;
   width: 100%;
   line-height: 5px;
+  padding-top: 40px;
 }
 
 .footer-container h1 {
   color: blue;
+  font-size: 22px;
 }
 
 .footer-social-icons {
