@@ -105,21 +105,36 @@
   font-family: "Work Sans", sans-serif;
 }
 
-/* .btn-mentor {
-  display: inline-flex;
-  font-size: 12px;
-  line-height: 160%;
-  text-decoration: none;
-  background-color: rgb(74, 80, 187);
-  color: white;
-  font-weight: 600;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  box-sizing: border-box;
-  padding: 10px 20px;
-  cursor: pointer;
-  text-transform: uppercase;
-  -webkit-box-align: center;
+/* volunteer-perspective */
+
+.volunteer-perspective {
+  display: flex;
+  flex-direction: row;
   align-items: center;
-  font-family: "Work Sans", sans-serif;
-} */
+  justify-content: baseline;
+  padding: 45px;
+  background: rgb(248, 249, 252);
+  height: fit-content;
+}
+
+.volunteer-perspective h2,
+b {
+  color: rgb(28, 34, 148);
+}
+
+.volunteer-description-perspective {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.volunteer-description-perspective div {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font: 16px "space mono", monospace;
+}
+
+.volunteer-description-perspective img {
+  margin: 10px 40px 0 0;
+}
