@@ -18,7 +18,7 @@ body {
 }
 
 .title-container h1 {
-  font-size: 25px;
+  font-size: 22px;
   text-transform: uppercase;
   background: conic-gradient(
     #ca4246 16.666%,
@@ -41,11 +41,11 @@ body {
 /** Title description styling **/
 
 .title-description {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .apply-now-message {
-  font-size: 18px;
+  font-size: 16px;
   color: #476098;
   text-decoration-line: underline;
 }
@@ -54,7 +54,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 30%;
+  min-width: 25%;
   margin-top: 80px;
 }
 
@@ -71,10 +71,64 @@ body {
   padding: 10px 10px;
   text-align: center;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
   border-radius: 11px;
 }
 
 .apply-now-button:hover {
   background-color: rgb(22, 238, 137);
+}
+
+/** Section styling **/
+
+.section-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.who-can-apply {
+  width: 40%;
+  margin-top: 30px;
+}
+
+.who-can-apply h2 {
+  color: #476098;
+}
+
+.who-can-apply p {
+  font-size: 16px;
+}
+
+.requirements-list {
+  width: 50%;
+  margin-top: 30px;
+}
+
+ul {
+  list-style: none;
+  margin-left: 1em;
+  counter-reset: line;
+}
+
+ul > li {
+  position: relative;
+  margin-bottom: 1.5em;
+}
+
+ul > li::before {
+  position: absolute;
+  left: -2.25em;
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-right: 0.5em;
+  background-color: #faba0c;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  line-height: 1.25em;
+  counter-increment: line;
+  content: counter(line);
 }
