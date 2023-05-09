@@ -27,7 +27,8 @@
     "Yodiz",
     "Zepel",
     "Tervueren",
-    "stylelint"
+    "stylelint",
+    "Epitech"
   ],
   "ignorePaths": [
     "node_modules/**",
