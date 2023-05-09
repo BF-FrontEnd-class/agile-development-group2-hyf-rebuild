@@ -1,0 +1,38 @@
+body {
+  background-color: white;
+}
+
+/** Main **/
+
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(220, 220, 220);
+}
+
+/** Banner **/
+
+.banner-container {
+  background-image: url(../public/home-banner.jpg);
+  background-position: center;
+}
+
+.banner-container .tagline {
+  background-color: rgba(0, 0, 0, 0.3);
+  background-size: cover;
+  padding: 50px 20px;
+  position: relative;
+}
+
+.tagline h1 {
+  font-size: 64px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  max-width: none;
+  padding: 10px 0;
+}
