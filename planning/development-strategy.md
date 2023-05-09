@@ -339,7 +339,7 @@
 
 #### css
 
-- add class `title`
+- add class `volunteer-title`
 
 ### Description
 
