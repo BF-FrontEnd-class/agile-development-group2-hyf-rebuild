@@ -10,15 +10,15 @@ body {
 }
 
 .title-container {
-  font-size: 25px;
   font-family: "Work Sans", sans-serif;
   text-align: left;
   min-width: 50%;
   margin-left: 80px;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 
 .title-container h1 {
+  font-size: 35px;
   text-transform: uppercase;
   background: conic-gradient(
     #ca4246 16.666%,
@@ -38,23 +38,30 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
+/** Title description styling **/
+
+.title-description {
+  font-size: 25px;
+}
+
+.apply-now-message {
+  font-size: 25px;
+  color: #476098;
+  text-decoration-line: underline;
+}
+
 .program-banner {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 50%;
+  min-width: 30%;
   margin-top: 80px;
 }
 
 .it-banner {
-  width: 750px;
-  height: 400px;
+  width: 500px;
+  height: 300px;
   border-radius: 10px;
-}
-
-.apply-now-message {
-  color: #476098;
-  text-decoration-line: underline;
 }
 
 .apply-now-button {
