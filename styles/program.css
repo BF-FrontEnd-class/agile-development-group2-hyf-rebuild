@@ -1,3 +1,32 @@
 body {
   background-color: white;
 }
+
+/** Title styling **/
+
+.title-container {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  text-align: left;
+  max-width: none;
+  margin-left: 80px;
+  margin-top: 80px;
+  background: conic-gradient(
+    #ca4246 16.666%,
+    #e16541 16.666%,
+    #e16541 33.333%,
+    #f18f43 33.333%,
+    #f18f43 50%,
+    #8b9862 50%,
+    #8b9862 66.666%,
+    #476098 66.666%,
+    #476098 83.333%,
+    #a7489b 83.333%
+  );
+  background-size: 57%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
