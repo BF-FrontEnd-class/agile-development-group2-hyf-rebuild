@@ -65,7 +65,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: absolute;
+  position: relative;
   bottom: 15px;
   width: 100%;
   line-height: 5px;
