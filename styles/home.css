@@ -39,7 +39,7 @@ main {
   display: flex;
   padding: 50px 20px;
   justify-content: space-between;
-  padding-bottom: 200px;
+  padding-bottom: 150px;
 }
 
 .description-text h2 {
@@ -178,4 +178,57 @@ main {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   word-break: break-word;
+}
+
+/** Partners **/
+
+.partners-container {
+  padding: 50px 20px;
+}
+
+.partners-title-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.partners-title-button h2 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.partners-title-button a {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  background-color: transparent;
+  color: rgb(74, 80, 187);
+}
+
+.partners-title-button a:hover {
+  background-color: rgb(229, 229, 229);
+  border-radius: 5px;
+}
+
+.partners-img img {
+  max-height: 170px;
+  max-width: 200px;
 }
