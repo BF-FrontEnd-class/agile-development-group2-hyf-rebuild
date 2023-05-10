@@ -105,7 +105,7 @@ body {
   background-color: rgb(64, 66, 65);
 }
 
-/** Section styling **/
+/** Who can apply section styling **/
 
 .who-can-apply-container {
   display: flex;
@@ -194,4 +194,55 @@ ul > li::before {
   width: 680px;
   height: 250px;
   border-radius: 20px;
+}
+
+/** Final project styling **/
+
+.final-project-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+  font-family: "Work Sans", sans-serif;
+  margin-top: 20px;
+}
+
+.final-project-description {
+  display: flex;
+  flex-direction: column;
+  min-width: 40%;
+  line-height: 25px;
+}
+
+.final-project-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 45%;
+}
+
+.final-project-img img {
+  border-radius: 20px;
+}
+
+.final-project-description h2 {
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #476098;
+}
+
+.final-project-description p {
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+}
+
+.discover-more-button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 11px;
+  font-family: "Space Mono", monospace;
 }
