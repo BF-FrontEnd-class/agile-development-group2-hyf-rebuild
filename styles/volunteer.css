@@ -152,33 +152,7 @@ b {
   justify-content: space-around;
   align-items: flex-end;
   margin: 50px, 20px;
-}
-
-.volunteer1-description {
-  display: block;
-  box-shadow: rgba(226, 221, 221, 0.08) 0 0 53px;
-  padding: 40px;
-  width: 70%;
-  font: 16px "space mono", monospace;
-  box-sizing: border-box;
-  background-color: rgb(241, 241, 246);
-}
-
-.discover-btn {
-  display: inline-flex;
-  font-size: 12px;
-  line-height: 160%;
-  text-decoration: none;
-  background-color: rgb(74, 80, 187);
-  color: white;
-  font-weight: 600;
-  border: 1px solid transparent;
-  border-radius: 0;
-  box-sizing: border-box;
-  padding: 10px 20px;
-  cursor: pointer;
-  text-transform: uppercase;
-  -webkit-box-align: center;
-  align-items: center;
-  font-family: "Work Sans", sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: rgb(83, 67, 139);
 }
