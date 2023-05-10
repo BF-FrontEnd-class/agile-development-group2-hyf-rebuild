@@ -232,3 +232,153 @@ main {
   max-height: 170px;
   max-width: 200px;
 }
+
+/** Support developers **/
+
+.donate {
+  display: flex;
+  padding: 50px 20px;
+}
+
+/** Description **/
+
+.donate-description {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding-right: 80px;
+  box-sizing: border-box;
+}
+
+.donate-description h1 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.donate-description p {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+/** Form **/
+
+.donate-form form {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.donate-form-labels input {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.donate-form-labels label {
+  cursor: pointer;
+  display: flex;
+  margin-right: 20px;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.donate-form-labels {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.donate-form-input label {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.donate-form-input ul {
+  display: flex;
+  margin: 20px 0;
+}
+
+.donate-form-input li {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: rgb(28, 34, 148);
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  font-family: "Work Sans", sans-serif;
+}
+
+.donate-form-input li:focus {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
+  font-family: "Work Sans", sans-serif;
+}
+
+.donate-form-input input {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-image: initial;
+  border-bottom: 1px solid rgb(28, 34, 148);
+  margin: 20px 0;
+  font-size: 18px;
+  padding: 5px;
+  box-sizing: border-box;
+  color: rgb(28, 34, 148);
+  background-color: transparent;
+  outline: none;
+}
+
+.donate-form button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
