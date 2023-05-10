@@ -69,6 +69,10 @@ body {
   border-radius: 10px;
 }
 
+.apply-now-buttons-container {
+  margin-top: 40px;
+}
+
 .apply-now-button {
   background-color: #4caf50;
   border: none;
