@@ -248,18 +248,18 @@
             <div class="donate-form-input">
               <label>Select your amount</label>
               <ul id="money-options">
-                <li class="money-options-item" tabindex="1">10</li>
-                <li class="money-options-item" tabindex="2">25</li>
-                <li class="money-options-item" tabindex="3">50</li>
-                <li class="money-options-item" tabindex="4">100</li>
-                <li class="money-options-item" tabindex="5">
+                <li class="money-options-item" tabindex="0">10</li>
+                <li class="money-options-item" tabindex="0">25</li>
+                <li class="money-options-item" tabindex="0">50</li>
+                <li class="money-options-item" tabindex="0">100</li>
+                <li class="money-options-item" tabindex="0">
                   Full scholarship
                 </li>
               </ul>
               <label>Amount</label>
               <input id="money-input" type="text" />
               <label>Message</label>
-              <input type="text" value="" />
+              <input type="text" value="" aria-label="Message" />
             </div>
             <button type="submit">Donate</button>
           </form>
@@ -277,11 +277,15 @@
           </div>
           <form class="contact-form">
             <label>Full name</label>
-            <input type="text" class="contact-form-info" />
+            <input
+              type="text"
+              class="contact-form-info"
+              aria-label="Full Name"
+            />
             <label>Email address</label>
-            <input type="text" class="contact-form-info" />
+            <input type="text" class="contact-form-info" aria-label="Email" />
             <label>Message</label>
-            <textarea cols="30" rows="10"></textarea>
+            <textarea cols="30" rows="10" aria-label="Text Area"></textarea>
             <button type="submit">Send</button>
           </form>
         </div>
