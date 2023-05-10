@@ -67,7 +67,7 @@ body {
   font-family: "Space Mono", monospace;
 }
 
-/* Digitalent program tracks */
+/* Digitalents program tracks */
 
 .program-tracks_container {
   background-color: rgb(248, 249, 252);
@@ -151,14 +151,3 @@ body {
   font-size: 16px;
   font-family: "Space Mono", monospace;
 }
-<<<<<<< HEAD
-
-.typescript,
-.asp {
-  min-width: 20%;
-  padding: 30px;
-  box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
-  border-radius: 20px;
-}
-=======
->>>>>>> 427b3215c4b341fac1ebe7cce35109f9b6a1f8c1
