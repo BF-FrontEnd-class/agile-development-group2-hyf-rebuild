@@ -380,7 +380,7 @@ ul > li::before {
 
 /** 1024px screens responsiveness **/
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1110px) {
   .curriculum-container {
     display: flex;
     flex-direction: column;
@@ -389,6 +389,16 @@ ul > li::before {
   .curriculum-buttons-container {
     display: flex;
     flex-direction: column;
+  }
+
+  .curriculum-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .curriculum-buttons a {
+    margin: 20px;
   }
 
   .apply-now-buttons-container {
@@ -402,7 +412,6 @@ ul > li::before {
 @media screen and (max-width: 700px) {
   .title-section,
   .curriculum-container,
-  /* .who-can-apply-container, */
   .final-project-container,
   .mentorship-container,
   .coaching-container {
@@ -440,5 +449,86 @@ ul > li::before {
 
   .apply-now-buttons-container a {
     margin: 10px;
+  }
+}
+
+/** Mobile phones responsiveness **/
+
+@media screen and (max-width: 574px) {
+  .title-section {
+    display: flex;
+    justify-content: center;
+  }
+
+  .title-container {
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    min-width: 80%;
+  }
+
+  .who-can-apply-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  .who-can-apply {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  .requirements-list {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  .curriculum-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  .final-project-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 15px;
+    margin-right: 10px;
+  }
+
+  .mentorship-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 15px;
+    margin-right: 10px;
+  }
+
+  .coaching-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    margin-left: 15px;
+    margin-right: 10px;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-container h3 {
+    font-size: large;
   }
 }
