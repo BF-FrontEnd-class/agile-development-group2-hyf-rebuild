@@ -94,12 +94,12 @@ body {
 }
 
 .name {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: 500;
   color: #333;
 }
 
-.description {
+.description-slide {
   font-size: 14px;
   color: #707070;
   text-align: center;
