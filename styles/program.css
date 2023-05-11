@@ -115,6 +115,8 @@ body {
 }
 
 .who-can-apply {
+  display: flex;
+  flex-direction: column;
   width: 40%;
   margin-top: 30px;
   background-color: rgb(248, 249, 252);
@@ -430,12 +432,13 @@ ul > li::before {
 
   .who-can-apply-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
   }
 
   .who-can-apply,
   .requirements-list {
-    min-width: 30%;
+    min-width: 80%;
   }
 
   .title-container {
@@ -469,10 +472,11 @@ ul > li::before {
 
   .who-can-apply-container {
     display: flex;
-    flex-direction: column;
     min-width: 80%;
     margin-left: 10px;
     margin-right: 20px;
+    flex-direction: column;
+    justify-content: center;
   }
 
   .who-can-apply {
