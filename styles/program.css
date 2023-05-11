@@ -25,13 +25,11 @@ body {
 
 @keyframes animation-title-description {
   0% {
-    background-color: #76a5af;
-    color: grey;
+    background-color: rgb(224, 10, 10);
   }
 
   100% {
     background-color: #ffe599;
-    color: #0000;
   }
 }
 
@@ -89,7 +87,7 @@ body {
 
 .apply-now-button {
   background-color: #0c8ffa;
-  color: black;
+  color: white;
   border: none;
   padding: 10px 10px;
   text-align: center;
@@ -97,19 +95,6 @@ body {
   font-size: 16px;
   border-radius: 11px;
   font-family: "Space Mono", monospace;
-  animation-name: buttons-animation;
-  animation-duration: 5s;
-}
-
-@keyframes buttons-animation {
-  from {
-    background-color: #4caf50;
-  }
-
-  to {
-    background-color: #0c8ffa;
-    color: #0000;
-  }
 }
 
 .apply-now-button:hover {
@@ -127,8 +112,6 @@ body {
   font-size: 16px;
   border-radius: 11px;
   font-family: "Space Mono", monospace;
-  animation-name: upcoming-trainings-animation;
-  animation-duration: 5s;
 }
 
 .upcoming-trainings-button:hover {
