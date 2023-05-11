@@ -121,7 +121,6 @@ body {
   background: #265df2;
 }
 
-
 .swiper-navBtn {
   color: #6e93f7;
   transition: color 0.3s ease;
@@ -144,16 +143,12 @@ body {
   left: 0;
 }
 
-
 .swiper-padination-bullet {
   background-color: #6e93f7;
   opacity: 1;
 }
 
-
-
 .swiper-padination-bullet-active {
-
   background-color: #265df2;
 }
 
