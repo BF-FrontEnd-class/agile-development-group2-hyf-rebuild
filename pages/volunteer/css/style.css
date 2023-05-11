@@ -24,7 +24,7 @@ body {
 }
 
 .slide-content {
-  padding: 45px 20px; /* this */
+  padding: 45px 20px;
   margin: 0 40px;
   overflow: hidden;
   border-radius: 45px;
@@ -121,7 +121,6 @@ body {
   background: #265df2;
 }
 
-/* this */
 
 .swiper-navBtn {
   color: #6e93f7;
@@ -145,12 +144,16 @@ body {
   left: 0;
 }
 
-.swiper-pagination-bullet {
+
+.swiper-padination-bullet {
   background-color: #6e93f7;
   opacity: 1;
 }
 
-.swiper-pagination-bullet-active {
+
+
+.swiper-padination-bullet-active {
+
   background-color: #265df2;
 }
 
