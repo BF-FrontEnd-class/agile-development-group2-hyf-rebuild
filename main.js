@@ -15,13 +15,13 @@ options.forEach((option) => {
 /** Title animation for the program**/
 let i = 0,
   text;
-text = "elcome, Your career starts here!! 🎊";
+text = "elcome, Your career starts here!!";
 
 function typing() {
   if (i < text.length) {
     document.getElementById("title").innerHTML += text.charAt(i);
     i++;
-    setTimeout(typing, 80);
+    setTimeout(typing, 140);
   }
 }
 typing();
