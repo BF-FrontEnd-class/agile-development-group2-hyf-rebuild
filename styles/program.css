@@ -326,3 +326,45 @@ ul > li::before {
   font-family: "Space Mono", monospace;
   line-height: 25px;
 }
+
+/** Tablet responsiveness **/
+
+@media screen and (max-width: 1264px) {
+  .title-section {
+    font-display: flex;
+    flex-direction: column;
+  }
+
+  .title-container {
+    margin-right: 100px;
+  }
+
+  .curriculum-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .curriculum-buttons-container {
+    max-width: 40%;
+  }
+
+  .final-project-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .final-project-description {
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+
+  .mentorship-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .coaching-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
