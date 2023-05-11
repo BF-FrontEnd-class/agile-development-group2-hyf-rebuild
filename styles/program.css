@@ -341,11 +341,11 @@ ul > li::before {
 
   .curriculum-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
 
   .curriculum-buttons-container {
-    max-width: 40%;
+    max-width: 20%;
   }
 
   .final-project-container {
@@ -366,5 +366,20 @@ ul > li::before {
   .coaching-container {
     display: flex;
     flex-direction: column;
+  }
+}
+
+/** 1024px screens responsiveness **/
+
+@media screen and (max-width: 1024px) {
+  .curriculum-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .curriculum-buttons-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
   }
 }
