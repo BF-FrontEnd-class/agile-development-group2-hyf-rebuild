@@ -229,6 +229,7 @@ body {
   order: 1;
 }
 
+/* who can apply description title */
 .who-can-apply_descr_title {
   display: flex;
   flex-direction: column;
@@ -246,4 +247,17 @@ body {
   color: rgb(28, 34, 148);
   text-align: left;
   max-width: none;
+}
+
+/* who can apply description text */
+.who-can-apply_paragraph {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 19px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  word-break: break-word;
+  font-weight: 300;
 }
