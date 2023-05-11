@@ -494,15 +494,14 @@ main {
 
 .contact-map-container {
   display: flex;
-  width: 100%;
+  margin: 20px;
 }
 
 .contact {
-  display: flex;
-  flex-direction: column;
   height: 100%;
   background-color: rgb(74, 80, 187);
   padding: 50px 50px;
+  width: 250px;
 }
 
 .contact-text h1 {
@@ -577,6 +576,10 @@ main {
 /** Map **/
 
 .map {
-  padding-left: 20px;
-  display: flex;
+  padding-left: 30px;
+}
+
+.map iframe {
+  width: 650px;
+  height: 700px;
 }
