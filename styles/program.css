@@ -344,8 +344,17 @@ ul > li::before {
     flex-direction: row;
   }
 
-  .curriculum-buttons-container {
-    max-width: 20%;
+  .programming-languages-logo {
+    margin-right: 30px;
+  }
+
+  .curriculum-buttons {
+    min-width: 20%;
+  }
+
+  body img {
+    width: 75%;
+    height: auto;
   }
 
   .final-project-container {
@@ -380,6 +389,56 @@ ul > li::before {
   .curriculum-buttons-container {
     display: flex;
     flex-direction: column;
+  }
+
+  .apply-now-buttons-container {
+    display: flex;
     max-width: 50%;
+  }
+}
+
+/** 700px screens responsiveness **/
+
+@media screen and (max-width: 700px) {
+  .title-section,
+  .curriculum-container,
+  /* .who-can-apply-container, */
+  .final-project-container,
+  .mentorship-container,
+  .coaching-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .title-section img,
+  .curriculum-container img,
+  .final-project-container img,
+  .mentorship-container img,
+  .coaching-container img {
+    width: 75%;
+    height: auto;
+  }
+
+  .who-can-apply-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .who-can-apply,
+  .requirements-list {
+    min-width: 30%;
+  }
+
+  .title-container {
+    min-width: 65%;
+  }
+
+  .apply-now-buttons-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .apply-now-buttons-container a {
+    margin: 10px;
   }
 }
