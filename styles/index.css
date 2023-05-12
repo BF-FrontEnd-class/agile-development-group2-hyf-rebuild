@@ -1,5 +1,6 @@
 @import url("./something.css");
 @import url("./digitalents.css");
+@import url("./program.css");
 
 /* Logo styling */
 
@@ -87,4 +88,24 @@
 .footer-social-icons a {
   text-decoration: none;
   font-size: 40px;
+}
+
+/** Responsiveness for the navigation bar **/
+
+@media screen and (max-width: 478px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .navbar-logo {
+    padding: 1px;
+    margin-left: 20px;
+    box-sizing: border-box;
+  }
+
+  .logo {
+    height: 50px;
+    width: 50px;
+  }
 }
