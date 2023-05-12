@@ -281,3 +281,36 @@ body {
   align-items: center;
   font-family: "Work Sans", sans-serif;
 }
+
+/* Responsiveness */
+
+@media screen and (max-width: 1367px) {
+  .for-who_container_img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .students-img {
+    width: 100%;
+    height: auto;
+  }
+
+  .who-can-apply_descr {
+    min-width: 80%;
+    margin-left: 1px;
+    margin-right: 10px;
+  }
+
+  .who-can-apply_button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 796px) {
+  .descri-text {
+    min-width: 90%;
+  }
+}
