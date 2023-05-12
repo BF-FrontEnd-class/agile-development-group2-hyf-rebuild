@@ -51,6 +51,17 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+  25% {
+    filter: hue-rotate(0deg);
+  }
+
+  100% {
+    filter: hue-rotate(360deg);
+  }
 }
 
 .descri-title {
@@ -99,6 +110,7 @@ body {
   font-weight: 700;
   color: rgb(74, 80, 187);
   text-align: center;
+  animation: animate 1s linear infinite;
 }
 
 /* typescript */
@@ -107,6 +119,7 @@ body {
   padding: 30px;
   box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
   border-radius: 20px;
+  animation: animate 1s linear infinite;
 }
 
 .typescript-title {
@@ -134,6 +147,7 @@ body {
   padding: 30px;
   box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
   border-radius: 20px;
+  animation: animate 1s linear infinite;
 }
 
 .asp-net_title {
@@ -156,18 +170,6 @@ body {
 }
 
 /* For who? */
-.fRqHVI {
-  display: flex;
-  -webkit-box-pack: center;
-  justify-content: center;
-  width: 100%;
-  padding: 0px;
-  position: relative;
-  box-shadow: none;
-  background: none;
-  z-index: 1;
-  flex: 0 0 auto;
-}
 
 .who-can-apply {
   display: flex;
@@ -247,6 +249,7 @@ body {
   color: rgb(28, 34, 148);
   text-align: left;
   max-width: none;
+  animation: animate 1s linear infinite;
 }
 
 /* who can apply description text */
