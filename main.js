@@ -13,6 +13,7 @@ options.forEach((option) => {
 });
 
 /** Title animation for the program**/
+
 let i = 0,
   text;
 text = "elcome, Your career starts here!!";
