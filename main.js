@@ -21,7 +21,7 @@ function typing() {
   if (i < text.length) {
     document.getElementById("title").innerHTML += text.charAt(i);
     i++;
-    setTimeout(typing, 80);
+    setTimeout(typing, 140);
   }
 }
 typing();
