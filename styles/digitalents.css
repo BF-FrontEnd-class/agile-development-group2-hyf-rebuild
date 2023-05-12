@@ -268,10 +268,11 @@ body {
   font-size: 12px;
   line-height: 160%;
   text-decoration: none;
-  background-color: rgb(74, 80, 187);
+  background-color: rgb(13, 24, 235);
   color: white;
   font-weight: 600;
   border: 1px solid transparent;
+  animation: button 7s ease-out infinite normal;
   border-radius: 0px;
   box-sizing: border-box;
   padding: 10px 20px;
@@ -280,6 +281,25 @@ body {
   -webkit-box-align: center;
   align-items: center;
   font-family: "Work Sans", sans-serif;
+}
+
+/* animation */
+@keyframes button {
+  0% {
+    transform: scale(0.9);
+  }
+
+  25% {
+    transform: scale(0.9);
+  }
+
+  60% {
+    transform: scale(0.9);
+  }
+
+  100% {
+    transform: scale(0.9);
+  }
 }
 
 /* Responsiveness */
