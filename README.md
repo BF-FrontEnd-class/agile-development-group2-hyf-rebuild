@@ -26,55 +26,83 @@
 
 ## General info
 
-> A short description
+> A website that helps people find their IT career, the main objective is to use
+> reverse engineering to rebuild the HackYourFuture website applying the agile
+> methodology
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./public/read-me-screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML
+- CSS
+- GitHub
 
 ## Setup
 
-- `npm run start`
+- clone the repo
+- npm install
+- use `live server` to preview the website
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```HTML
+ <header>
+      <div class="navbar">
+        <div class="navbar-logo">
+          <img src="./public/logo.svg" alt="logo" class="logo"/>
+        </div>
+      </div>
+  </header>
+```
+
+```CSS
+ .navbar-logo {
+  margin-left: 100px;
+  display: flex;
+  align-items: center;
+}
+```
+
+```JS
+function typing() {
+  if (i < text.length) {
+    document.getElementById("title").innerHTML += text.charAt(i);
+    i++;
+    setTimeout(typing, 140);
+  }
+}
+typing();
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
-
-To-do list:
-
--
--
+- Create extra pages for the "about", "support" and "FAQ" section
+- Work in the backend of the donation section
+- Make the contact form work
 
 ## Status
 
-Project is: _in progress_
+Project is: _Completed_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by Hack Your Future organization
 
 ## Contact
 
-By [Name]
+By:
+
+- [Cris](https://github.com/cristobal-lopez)
+- [Inna](https://github.com/inna9Z)
+- [Iryna](https://github.com/IrynaSobetska)
+- [Jean Paul](https://github.com/iradukundajp)
 
 ## Instructions for use
 
